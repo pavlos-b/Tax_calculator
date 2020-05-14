@@ -115,7 +115,6 @@ def tax_calculator(tax_dict):
 def main():
     tax_data = get_data()
     tax_calculator(tax_data)
-    print('Test')
 
 if __name__ == "__main__":
     main()
